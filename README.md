@@ -12,6 +12,12 @@ extensions.
 
 `$> hash_file_rename Namefile` to rename a file into current directory which name is NameFile
 
+# it includes:
+dupFinder.py --> to locate repeating files in a folder and their contents
+
+gifrename.py --> Rename gif files named _thumbs_ .gif to _nfx_.gif by renaming the base Thumbails folder to .Thumbails.
+
+for more information: ´gifrename.py -h`
  
 # Writer: 
 email: 'afhernani@gmail.com'
